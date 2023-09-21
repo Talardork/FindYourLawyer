@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find Your Lawyer final</string>
+    <string name="screen1_customer">Are you a customer ?</string>
+    <string name="screen1_provider">Are you a Legal Service Provider ?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
